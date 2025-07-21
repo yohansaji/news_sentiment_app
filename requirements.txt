@@ -1,0 +1,6 @@
+streamlit
+pyspark
+vaderSentiment
+pandas
+matplotlib
+requests
